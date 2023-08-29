@@ -1,0 +1,6 @@
+token = ""
+private_ssh_key=""
+authorized_keys = ""
+root_pass =""
+user_name = ""
+server_name = ""
